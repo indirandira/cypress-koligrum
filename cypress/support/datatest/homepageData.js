@@ -1,6 +1,6 @@
 module.exports = {
   datatest: {
-    quote: "cahyadi 123",
+    quote: "cahyadi 1234",
     colour: "Blue",
   },
 };
